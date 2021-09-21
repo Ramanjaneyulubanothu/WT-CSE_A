@@ -7,4 +7,6 @@ Web Technologies
 
 18 Sept 2021 | CSS | External CSS
 
-20 Sept 2021 | Box Model, Border Property, Margin Property
+20 Sept 2021 | CSS | Box Model, Border Property, Margin Property
+
+22 Sept 2021 | CSS
