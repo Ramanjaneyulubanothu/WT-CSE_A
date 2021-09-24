@@ -12,3 +12,5 @@ Web Technologies
 22 Sept 2021 | CSS | Frame 02, Login Page
 
 23 Sept 2021 | PHP | Introduction, Declaring Variable, Control Statement, Loops
+
+24 Sept 2021 | PHP | Loops, Arrays
