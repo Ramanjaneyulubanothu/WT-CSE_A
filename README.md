@@ -14,3 +14,7 @@ Web Technologies
 23 Sept 2021 | PHP | Introduction, Declaring Variable, Control Statement, Loops
 
 24 Sept 2021 | PHP | Loops, Arrays
+
+29 Sept 2021 | PHP | Associative Arary, Multidimensional Array, Array built-in function
+
+30 Sept 2021 | PHP | Functions, Reading Data from wen form controls [textbox, textarea, radio button, checkbox, password]
