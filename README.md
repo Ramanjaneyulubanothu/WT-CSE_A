@@ -19,7 +19,7 @@
 
 30 Sept 2021 | PHP | Functions, Reading Data from wen form controls [textbox, textarea, radio button]
 
-01 Oct 2021 | PHP  | Reading Data from wen form controls [checkbox, password, dropdown list], Handling File Uploads
+01 Oct 2021 | PHP  | Reading Data from wen form controls [checkbox, password, dropdown list]
 
 -----------------------------------------------------------------------------------------------------------------
 
