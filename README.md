@@ -21,6 +21,8 @@
 
 01 Oct 2021 | PHP  | Reading Data from wen form controls [checkbox, password, dropdown list]
 
+04 Oct 2021 | PHP | Revision |  Reading data from web form controls
+
 -----------------------------------------------------------------------------------------------------------------
 
 ![alt text](Web_Tech_Syllabus.jpg)
