@@ -25,6 +25,8 @@
 
 21 Oct 2021 | PHP | Cookies and Session in PHP, File Handling in PHP- Opening, Closing, Reading, Writing Text and Binary File
 
+23 Oct 2021 | XML | Introduction to XML , Defining XML Tags, Attributes and values
+
 -----------------------------------------------------------------------------------------------------------------
 
 ![alt text](Web_Tech_Syllabus.jpg)
