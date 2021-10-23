@@ -27,6 +27,8 @@
 
 23 Oct 2021 | XML | Introduction to XML, Defining XML Tags, attributes and its values, DTD- Document Type Definition - Internal & External DTD
 
+25 Oct 2021 | XML | Element Declaration in DTD, Attribute Declaration in DTD
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 ![alt text](Web_Tech_Syllabus.jpg)
